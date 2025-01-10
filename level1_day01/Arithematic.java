@@ -1,5 +1,5 @@
 class Arithematic{
-public static void main(String args[]){
+  public static void main(String args[]){
    //creating scanner object
    Scanner sc=new Scanner(System.in);
    float number1,number2;

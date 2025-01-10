@@ -12,3 +12,5 @@ public static void main(String args[]){
 
   //display
   System.out.println("The length of the side is "+side+" whose perimeter is "+perimeter);
+}
+}
